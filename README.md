@@ -15,11 +15,11 @@ flutter run
 
 ## Screenshots
 
-<img width="1080" alt="Screen Shot 2022-05-14 at 8 59 43 PM" src="https://raw.githubusercontent.com/chiragjasani/flutter_crypto_app_master/main/screenshots/ss1.jpg">
+<img width="500" alt="Screen Shot 2022-05-14 at 8 59 43 PM" src="https://raw.githubusercontent.com/chiragjasani/flutter_crypto_app_master/main/screenshots/ss1.jpg">
 
-<img width="1080" alt="Screen Shot 2022-05-20 at 10 16 36 AM" src="https://raw.githubusercontent.com/chiragjasani/flutter_crypto_app_master/main/screenshots/ss2.jpg">
+<img width="500" alt="Screen Shot 2022-05-20 at 10 16 36 AM" src="https://raw.githubusercontent.com/chiragjasani/flutter_crypto_app_master/main/screenshots/ss2.jpg">
 
-<img width="1080" alt="Screen Shot 2022-05-20 at 10 16 55 AM" src="https://raw.githubusercontent.com/chiragjasani/flutter_crypto_app_master/main/screenshots/ss3.jpg">
+<img width="500" alt="Screen Shot 2022-05-20 at 10 16 55 AM" src="https://raw.githubusercontent.com/chiragjasani/flutter_crypto_app_master/main/screenshots/ss3.jpg">
 
 
 ## Pull Requests
